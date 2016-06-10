@@ -1,0 +1,15 @@
+{
+  "name": "karma-base64-to-js-preprocessor",
+  "description": "A Karma plugin. Convert base64-encoded files into JavaScript strings to serve them in a script tag.",
+  "author": "PhonicScore GmbH",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/opensheetmusicdisplay/karma-base64-to-js-preprocessor.git"
+  },
+  "license": "MIT",
+  "contributors": [
+    "Andrea Condoluci <andreacondoluci@gmail.com>"
+  ]
+}
