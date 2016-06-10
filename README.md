@@ -1,0 +1,1 @@
+# karma-base64-to-js-preprocessor
