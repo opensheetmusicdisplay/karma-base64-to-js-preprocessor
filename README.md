@@ -1,5 +1,7 @@
 # karma-base64-to-js-preprocessor
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/opensheetmusicdisplay/karma-base64-to-js-preprocessor.svg)](https://greenkeeper.io/)
+
 Preprocessor for converting base64-encoded files into JavaScript strings.
 
 ## Installation
